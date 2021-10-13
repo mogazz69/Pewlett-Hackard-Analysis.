@@ -5,7 +5,7 @@
 > The purpose of this analysis is to find out which employees in Pewlett-Hackard were close to retiring and who would eventually replace them in the future. To do that we added all the employee credentials in a database. These credentials include Age, sex, date of employment, date of retirement, employment number, and mentorship eligibility. With this data we were able to determine how many employees would soon be heading into retirement and how many positions they will leave in their wake.
 
 2. Results:
-![](images/rettit) 
+![](images/rettit.png) 
 > 
 - In our Postgres analysis we have tabulated the titles of the employees, how long they have worked on the company, and weather or not they are eligible for retirement.
 
