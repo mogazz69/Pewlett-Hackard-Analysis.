@@ -19,3 +19,4 @@
 3. Summary:
 > Based on the findings of our analysis Pewlett-Hackard must fill the shoes of over 90,000 employees over the course of 5 years. In addition to that it must fill these vacancies from other sources outside of the company.
 
+.
